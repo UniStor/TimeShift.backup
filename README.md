@@ -1,5 +1,5 @@
 # TimeShift.backup
-sch: https://www.google.com/search?q=linux+timeshift wiki: https://wiki.debian.org/timeshift guide: https://teejeetech.com/timeshift/
+sch: https://www.google.com/search?q=linux+timeshift
 
 # Home:
 https://community.linuxmint.com/software/view/timeshift
@@ -8,4 +8,9 @@ https://community.linuxmint.com/software/view/timeshift
 old: https://teejeetech.com/timeshift/
 
 # wiki:
-https://wiki.archlinux.org/title/Timeshift
+- https://wiki.debian.org/timeshift
+- https://wiki.archlinux.org/title/Timeshift
+
+# guide:
+- https://itsfoss.com/backup-restore-linux-timeshift/
+- https://teejeetech.com/timeshift/
